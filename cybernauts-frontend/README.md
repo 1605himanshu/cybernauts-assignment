@@ -181,6 +181,5 @@ Himanshu Yadav
 
 ---
 
-Would you like me to format this same README with **your future Render and Vercel live URLs** once you deploy?  
-(That way your GitHub project will look complete and demo-ready.)
+
 
